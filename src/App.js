@@ -17,6 +17,8 @@ import AboutUs from './components/AboutUs';
 import Menu from './components/Menu';
 import Harina from './components/Harina';
 import Maiz from './components/Maiz';
+import 'bootstrap/dist/css/bootstrap.css';
+import Ioadd from 'react-icons/io'
 
 function App() {
   return (
